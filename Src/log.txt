@@ -1,0 +1,143 @@
+[Thu Jul 03 13:45:54 2025] App Sheet sorted by sku ascending.
+[Thu Jul 03 13:53:55 2025] App Sheet sorted by sku descending.
+[Thu Jul 03 17:26:34 2025] Deleted first 10 rows from price sheet (excluding header).
+[Thu Jul 03 17:26:47 2025] Unmerged columns I & J in price sheet.
+[Thu Jul 03 17:27:06 2025] Moved P column (الكود) to H column in price sheet.
+[Sat Jul 05 15:29:48 2025] Stock updated for code 133583: new stock = 2
+[Sat Jul 05 15:35:42 2025] Stock updated for code 131084: new stock = 0
+[Sat Jul 05 17:13:08 2025] Price updated for الكود 135265: new السعر = 79.000000
+[Sat Jul 05 17:13:25 2025] App Sheet synchronized with Stock and Price Sheets.
+[Sat Jul 05 17:23:58 2025] Price updated for الكود 135265: new السعر = 79.000000
+[Sat Jul 05 17:31:15 2025] App Sheet synchronized with Stock and Price Sheets.
+[Sat Jul 05 18:01:27 2025] Price updated for الكود 135265: new السعر = 79.000000
+[Sat Jul 05 18:01:31 2025] App Sheet synchronized with Stock and Price Sheets - 0 cells updated.
+[Sat Jul 05 18:05:05 2025] Price updated for الكود 135265: new السعر = 79.000000
+[Sat Jul 05 18:05:21 2025] App Sheet synchronized with Stock and Price Sheets - 0 cells updated.
+[Sat Jul 05 18:09:20 2025] Price updated for الكود 135265: new السعر = 79.000000
+[Sat Jul 05 18:09:39 2025] App Sheet synchronized with Stock and Price Sheets - 0 cells updated.
+[Sun Jul 06 12:56:49 2025] Price updated for الكود 148619: new السعر = 15000.000000
+[Sun Jul 06 12:57:02 2025] App Sheet synchronized with Stock and Price Sheets - 0 cells updated.
+[Sun Jul 06 12:57:28 2025] App Sheet sorted by sku (ascending).
+[Sun Jul 06 12:57:35 2025] Rows with '+' between numbers removed from App Sheet.
+[Sun Jul 06 12:57:51 2025] Deleted first 7 rows from price sheet (excluding header).
+[Sun Jul 06 12:58:13 2025] Unmerged columns I & J in price sheet.
+[Sun Jul 06 12:58:24 2025] Moved P column (الكود) to H column in price sheet.
+[Sun Jul 06 13:02:29 2025] App Sheet sorted by sku (ascending).
+[Sun Jul 06 13:02:33 2025] Rows with '+' between numbers removed from App Sheet.
+[Sun Jul 06 13:02:49 2025] Deleted first 7 rows from price sheet (excluding header).
+[Sun Jul 06 13:03:03 2025] Deleted first 7 rows from price sheet (excluding header).
+[Sun Jul 06 13:03:07 2025] Unmerged columns I & J in price sheet.
+[Sun Jul 06 13:03:09 2025] Moved P column (الكود) to H column in price sheet.
+[Sun Jul 06 13:48:33 2025] App Sheet sorted by sku (ascending).
+[Sun Jul 06 13:49:08 2025] App Sheet sorted by sku (descending).
+[Sun Jul 06 13:49:28 2025] App Sheet sorted by sku (ascending).
+[Sun Jul 06 13:49:57 2025] Deleted first 7 rows from price sheet (including header).
+[Sun Jul 06 13:50:11 2025] Unmerged columns I & J in price sheet.
+[Sun Jul 06 13:50:13 2025] Moved P column (الكود) to H column in price sheet.
+[Sun Jul 06 14:03:50 2025] App Sheet synchronized with Stock and Price Sheets - 14184 cells updated.
+[Sun Jul 06 16:58:24 2025] App Sheet sorted by sku (ascending).
+[Sun Jul 06 16:59:18 2025] Deleted first 7 rows from price sheet (including header).
+[Sun Jul 06 16:59:28 2025] Unmerged columns I & J in price sheet.
+[Sun Jul 06 16:59:32 2025] Moved P column (الكود) to H column in price sheet.
+[Sun Jul 06 16:59:35 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Sun Jul 06 16:59:55 2025] App Sheet sorted by sku (ascending).
+[Sun Jul 06 17:00:00 2025] Deleted first 6 columns from price sheet.
+[Sun Jul 06 17:10:42 2025] App Sheet synchronized with Stock and Price Sheets - 1 cells updated.
+[Sun Jul 06 17:37:16 2025] Deleted first 7 rows from price sheet (including header).
+[Sun Jul 06 17:39:13 2025] App Sheet sorted by sku (ascending).
+[Sun Jul 06 18:00:08 2025] App Sheet synchronized with Stock and Price Sheets - 14184 cells updated.
+[Sun Jul 06 18:15:20 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 13:20:53 2025] Deleted first 7 rows from price sheet (including header).
+[Mon Jul 07 13:21:04 2025] Unmerged columns I & J in price sheet.
+[Mon Jul 07 13:21:17 2025] Moved P column (الكود) to H column in price sheet.
+[Mon Jul 07 13:21:37 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Mon Jul 07 13:33:37 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 26072 cells updated.
+[Mon Jul 07 13:39:05 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 14:08:27 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 14:08:39 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Mon Jul 07 14:08:52 2025] Deleted first 7 rows from price sheet (including header).
+[Mon Jul 07 14:08:56 2025] Unmerged columns I & J in price sheet.
+[Mon Jul 07 14:09:00 2025] Moved P column (الكود) to H column in price sheet.
+[Mon Jul 07 14:09:10 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Mon Jul 07 14:20:39 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 26072 cells updated.
+[Mon Jul 07 14:23:37 2025] Set stock to 9000000 for 37 home nursing services rows in App Sheet.
+[Mon Jul 07 14:23:47 2025] Converted 242121 nan/empty values to 0 in App Sheet.
+[Mon Jul 07 14:25:17 2025] Set stock to 9000000 for 37 home nursing services rows in App Sheet.
+[Mon Jul 07 14:25:23 2025] Converted 242121 nan/empty values to 0 in App Sheet.
+[Mon Jul 07 15:22:46 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 15:23:01 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Mon Jul 07 15:23:15 2025] Deleted first 7 rows from price sheet (including header).
+[Mon Jul 07 15:23:20 2025] Unmerged columns I & J in price sheet.
+[Mon Jul 07 15:23:28 2025] Moved P column (الكود) to H column in price sheet.
+[Mon Jul 07 15:23:38 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Mon Jul 07 15:27:41 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 15:27:49 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Mon Jul 07 15:28:13 2025] Deleted first 10 rows from price sheet (including header).
+[Mon Jul 07 15:28:24 2025] Unmerged columns I & J in price sheet.
+[Mon Jul 07 15:28:36 2025] Moved P column (الكود) to H column in price sheet.
+[Mon Jul 07 15:28:50 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Mon Jul 07 15:28:58 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 15:39:45 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 25998 cells updated.
+[Mon Jul 07 15:40:15 2025] Set stock to 9000000 for 37 home nursing services rows in App Sheet.
+[Mon Jul 07 15:40:24 2025] Converted 552931 nan/empty values to 0 in App Sheet.
+[Mon Jul 07 15:42:46 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 15:42:53 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Mon Jul 07 15:43:03 2025] Deleted first 10 rows from price sheet (including header).
+[Mon Jul 07 15:43:04 2025] Unmerged columns I & J in price sheet.
+[Mon Jul 07 15:43:09 2025] Moved P column (الكود) to H column in price sheet.
+[Mon Jul 07 15:43:15 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Mon Jul 07 15:54:02 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 25998 cells updated.
+[Mon Jul 07 16:10:29 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 16:10:31 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Mon Jul 07 16:10:52 2025] Deleted first 10 rows from price sheet (including header).
+[Mon Jul 07 16:10:54 2025] Unmerged columns I & J in price sheet.
+[Mon Jul 07 16:10:55 2025] Moved P column (الكود) to H column in price sheet.
+[Mon Jul 07 16:10:56 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Mon Jul 07 16:24:29 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 1 cells updated.
+[Mon Jul 07 16:25:40 2025] Set stock to 9000000 for 37 home nursing services rows in App Sheet.
+[Mon Jul 07 16:25:51 2025] Converted 552961 nan/empty values to 0 in App Sheet.
+[Mon Jul 07 16:48:29 2025] Deleted first 10 rows from price sheet (including header).
+[Mon Jul 07 16:48:47 2025] Unmerged columns I & J in price sheet.
+[Mon Jul 07 16:48:53 2025] Moved P column (الكود) to H column in price sheet.
+[Mon Jul 07 16:48:56 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Mon Jul 07 16:53:15 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 16:53:28 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Mon Jul 07 17:04:22 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 25998 cells updated.
+[Mon Jul 07 17:04:31 2025] Set stock to 9000000 for 37 home nursing services rows in App Sheet.
+[Mon Jul 07 17:04:35 2025] Converted 552931 nan/empty values to 0 in App Sheet.
+[Mon Jul 07 17:13:38 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 17:13:45 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Mon Jul 07 17:24:34 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 25998 cells updated.
+[Mon Jul 07 17:24:45 2025] Set stock to 9000000 for 37 home nursing services rows in App Sheet.
+[Mon Jul 07 17:30:15 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 17:30:22 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Mon Jul 07 17:32:53 2025] App Sheet sorted by sku (ascending, header preserved).
+[Mon Jul 07 17:42:41 2025] App Sheet sorted by sku (ascending, header preserved, no data shifted).
+[Mon Jul 07 17:50:35 2025] App Sheet sorted by sku (ascending, header preserved, no data shifted).
+[Mon Jul 07 17:59:56 2025] App Sheet sorted by sku (ascending, header preserved, no data shifted).
+[Mon Jul 07 18:13:03 2025] App Sheet sorted by sku (ascending, header preserved, robust, no data shifted).
+[Mon Jul 07 18:19:19 2025] App Sheet sorted by sku (ascending, header preserved, robust, no data shifted).
+[Tue Jul 08 12:57:43 2025] App Sheet sorted by sku (ascending, header preserved).
+[Tue Jul 08 13:06:38 2025] App Sheet sorted by sku (ascending, header preserved).
+[Tue Jul 08 13:17:34 2025] App Sheet sorted by numeric sku (ascending, header preserved).
+[Tue Jul 08 13:29:13 2025] App Sheet sorted by sku (numeric ascending, header preserved).
+[Tue Jul 08 13:47:21 2025] App Sheet sorted by sku (robust numeric, header preserved).
+[Tue Jul 08 13:53:38 2025] App Sheet sorted by sku (robust numeric, header preserved).
+[Tue Jul 08 14:03:14 2025] App Sheet sorted by sku (final robust numeric, header preserved).
+[Tue Jul 08 14:27:00 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Tue Jul 08 14:38:04 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 25998 cells updated.
+[Tue Jul 08 14:38:29 2025] Set stock to 9000000 for 37 home nursing services rows in App Sheet.
+[Tue Jul 08 14:38:41 2025] Converted 552931 nan/empty values to 0 in App Sheet.
+[Tue Jul 08 14:45:50 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Tue Jul 08 14:56:32 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Tue Jul 08 15:09:55 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Tue Jul 08 15:27:01 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Tue Jul 08 15:35:50 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Tue Jul 08 15:41:47 2025] Rows with multiple numbers in SKU removed from App Sheet.
+[Tue Jul 08 16:22:01 2025] Deleted first 10 rows from price sheet (including header).
+[Tue Jul 08 16:22:06 2025] Unmerged columns I & J in price sheet.
+[Tue Jul 08 16:22:09 2025] Moved P column (الكود) to H column in price sheet.
+[Tue Jul 08 16:22:17 2025] Deleted repeated السعر column (index 9) from price sheet.
+[Tue Jul 08 16:32:22 2025] App Sheet synchronized using VLOOKUP from Stock and Price Sheets - 25997 cells updated.
+[Tue Jul 08 16:34:24 2025] Set stock to 9000000 for 37 home nursing services rows in App Sheet.
+[Tue Jul 08 16:34:31 2025] Converted 552926 nan/empty values to 0 in App Sheet.

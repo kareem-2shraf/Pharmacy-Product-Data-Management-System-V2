@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1751900853 source:c:\users\bios\desktop\sally's internship projects\updating system v1.3\file_handler.cpp
+	"file_handler.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1751487621 c:\users\bios\desktop\sally's internship projects\updating system v1.3\file_handler.h
+	<vector>
+	<string>
+
+1751487621 source:c:\users\bios\desktop\sally's internship projects\updating system v1.3\logger.cpp
+	"logger.h"
+	<fstream>
+	<ctime>
+	<iostream>
+
+1751487621 c:\users\bios\desktop\sally's internship projects\updating system v1.3\logger.h
+	<string>
+
+1751979196 source:c:\users\bios\desktop\sally's internship projects\updating system v1.3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<filesystem>
+	<algorithm>
+	<windows.h>
+	"file_handler.h"
+	"operations.h"
+	<chrono>
+	<thread>
+
+1751979196 c:\users\bios\desktop\sally's internship projects\updating system v1.3\operations.h
+	<string>
+	<vector>
+
+1751979196 source:c:\users\bios\desktop\sally's internship projects\updating system v1.3\operations.cpp
+	"operations.h"
+	"file_handler.h"
+	"logger.h"
+	<iostream>
+	<algorithm>
+	<cctype>
+	<regex>
+	<limits>
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
