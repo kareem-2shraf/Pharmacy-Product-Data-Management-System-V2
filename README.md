@@ -92,10 +92,6 @@ A user-friendly system for managing pharmacy product data (stock, price, and app
 
 ---
 
-## License
-For educational and internal use. Contact the author for other uses.
+## 📄 License
 
----
-
-## Author
-Sally (Internship Project) 
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for terms.
